@@ -3,8 +3,6 @@
 - 🌱 I’m currently learning **reactive programming (Project Reactor), Java 17 LTS features, and cloud infrastructure optimization on AWS/GCP**
 - 💞️ I’m looking to collaborate on **open-source Java libraries, scalable SaaS platforms, or distributed system design projects**
 - 📫 How to reach me:
-  - 📧 **craig.garcias@devmail.com** 
-  - 💼 [LinkedIn](https://linkedin.com/in/craiggarcias-java)
   - 🌐 [Tech Blog](https://craiggarcias.dev)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: **Wrote a custom JVM bytecode analyzer for production debugging | Can recite Java primitive types in binary order | Once optimized an API response from 2s to 8ms**
